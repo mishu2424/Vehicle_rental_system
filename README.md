@@ -88,6 +88,6 @@ The project is live on **Vercel**:
 
 ## 🙌 Contribution
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to modify.
+Pull requests are welcome!
 
 ---
